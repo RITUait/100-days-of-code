@@ -3,7 +3,7 @@
 ### Day 0: January 26 , 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Soved a very basic problem.
+**Today's Progress**: Solved a very basic problem.
 
 **Thoughts:** I didnt incremented i inside if-else condition. But pointed it out soon .Yoo !!!
 **Link to work:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/
