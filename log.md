@@ -17,12 +17,11 @@
 
 **Link(s) to work**: (Programming competition) https://www.hackerrank.com/contests/hackerrank-hiring-contest/challenges/programming-competition/submissions/code/1305341264
 
-### Day 1: June 27, Monday
+### Day 1: January 27, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Solved basic looping problem
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** very easy code.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/
