@@ -17,7 +17,7 @@
 
 **Link(s) to work**: (Programming competition) https://www.hackerrank.com/contests/hackerrank-hiring-contest/challenges/programming-competition/submissions/code/1305341264
 
-### Day 1: January 27, Saturday
+### Day 1: January 27, Saturday(Example 1)
 
 **Today's Progress**: Solved basic looping problem
 
@@ -25,3 +25,11 @@
 
 **Link(s) to work**
 https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/
+
+### Day 1: January 27, Saturday(Example 2)
+
+**Today's Progress**:printing Ascii value of a char .
+
+**Thoughts** I had to Google about how to print Ascii value of a char .
+
+**Link(s) to work**https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ascii-value/
