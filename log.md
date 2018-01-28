@@ -33,3 +33,13 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 **Thoughts** I had to Google about how to print Ascii value of a char .
 
 **Link(s) to work**https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ascii-value/
+
+### Day 2: January 28, Sunday(Example 1)
+
+**Today's Progress**:Watermelon Problem.
+
+**Thoughts** On input as 2 , answer was coming wrong hence i updated the solution.
+
+**Link(s) to work**http://codeforces.com/contest/4/submission/34630935
+
+
