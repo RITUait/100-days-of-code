@@ -58,6 +58,14 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 **Link(s) to work**https://www.hackerrank.com/challenges/maximizing-xor/problem
 
+### Day 3: february 20, Monday(Example 3)
+
+**Today's Progress**:Apple and Orange.
+
+**Thoughts** cin>>s>>t>>a>>b>>m>>n; ye isi order me lene h jis order me question ka input format h(i took in random order), mistake.
+
+**Link(s) to work**https://www.hackerrank.com/challenges/apple-and-orange/problem
+
 
 
 
