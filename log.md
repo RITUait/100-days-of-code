@@ -42,4 +42,22 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 **Link(s) to work**http://codeforces.com/contest/4/submission/34630935
 
+### Day 3: february 20, Monday(Example 1)
+
+**Today's Progress**:Lonely Integer.
+
+**Thoughts** cin >>m ..i forgot to do , mistake.
+
+**Link(s) to work**https://www.hackerrank.com/challenges/lonely-integer/problem
+
+### Day 3: february 20, Monday(Example 1)
+
+**Today's Progress**:Maximizing XOR.
+
+**Thoughts** m++ ..i did at wrong place, mistake.
+
+**Link(s) to work**https://www.hackerrank.com/challenges/maximizing-xor/problem
+
+
+
 
