@@ -50,7 +50,7 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 **Link(s) to work**https://www.hackerrank.com/challenges/lonely-integer/problem
 
-### Day 3: february 20, Monday(Example 1)
+### Day 3: february 20, Monday(Example 2)
 
 **Today's Progress**:Maximizing XOR.
 
