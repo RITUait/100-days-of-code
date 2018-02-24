@@ -66,6 +66,14 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 **Link(s) to work**https://www.hackerrank.com/challenges/apple-and-orange/problem
 
+### Day 4: february 24, Saturday(Example 3)
+
+**Today's Progress**:Grading Students.
+
+**Thoughts**  if(arr[i]>=38) , yaha = sign bhi aayega according to problem statement. Yoo :) , i made this mistake.
+
+**Link(s) to work**https://www.hackerrank.com/challenges/grading/problem
+
 
 
 
